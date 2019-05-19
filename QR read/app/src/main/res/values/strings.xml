@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Suleyman</string>
+    <string name="result_text_default">Lütfen QR Kodunu Okutunuz.</string>
+</resources>
